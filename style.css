@@ -7,7 +7,7 @@ body{
 }
 
 
-
+/* banner section style start */
 .banner-container{
  
     width: 100%;
@@ -54,3 +54,73 @@ body{
     color: #ffff;
     font-weight: 600;
 }
+/* banner section style end */
+
+
+/* donate section style add */
+
+.donate-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.donate-content h1{
+    font-size: 50px;
+    text-align: center;
+    color: black;
+}
+.donate-content p{
+    text-align: center;
+    color: black;
+    font-size: 16px;
+    letter-spacing: 1px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.donate-list{
+    padding: 0 50px;
+    margin-top: 90px;
+}
+.donate-list ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 35px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.donate-list ul li:nth-child(2) {
+    border: 2px solid #ff5959;
+    background-color: #ffeeee;
+    border-radius: 5px;
+    color: #ff5959;
+  }
+
+.submit-form {
+    margin-top: 90px;
+}
+
+.submit-form h3{
+    text-align: center;
+    padding: 15px 0px;
+    color: #cacaca;
+}
+
+.submit-form hr {
+    width: 750px;
+    margin: 0 auto;
+}
+
+.submit-form button{
+    display: block;
+    margin: 0 auto;
+    padding: 15px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    background: #ff5959;
+    border: none;
+    margin-top: 20px;
+    color: #ffff;
+    font-weight: 600;
+}  
