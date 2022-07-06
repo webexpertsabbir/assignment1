@@ -124,3 +124,47 @@ body{
     color: #ffff;
     font-weight: 600;
 }  
+
+/* donate section style end */
+
+/* Donate Plan style start */
+.donateplan-container{
+    margin-top: 100px;
+}
+.donateplan-content p{
+    margin-bottom: 50px;
+}
+
+.donateplan-section{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 100px;
+}
+.donateplan-section .food{
+    background-color: #edf5f6;
+}
+.donateplan-section .family{
+    background-color: #ffeeee;
+}
+.donateplan-section .education{
+    background-color: #fff4d6;
+}
+.donateplan{
+    margin: 0px 10px;
+}
+.donateplan img{
+    width: 50px;
+
+}
+.donateplan{
+    padding: 60px 30px;
+}
+
+.donateplan h1{
+    line-height: 70px;
+}
+.donateplan p{
+    line-height: 24px;
+}
+
+/* Donate Plan style end */
