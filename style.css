@@ -53,6 +53,7 @@ body{
     margin-top: 20px;
     color: #ffff;
     font-weight: 600;
+    cursor: pointer;
 }
 /* banner section style end */
 
@@ -123,6 +124,7 @@ body{
     margin-top: 20px;
     color: #ffff;
     font-weight: 600;
+    cursor: pointer;
 }  
 
 /* donate section style end */
@@ -204,6 +206,7 @@ body{
     margin-top: 20px;
     color: #ffff;
     font-weight: 600;
+    cursor: pointer;
 }
 
 .donation-image img{
