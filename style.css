@@ -213,4 +213,55 @@ body{
 .donation-right{
     margin-left: 100px !important;
 }
-/*  donation plan style end *
+/*  donation plan style end */
+
+/* newslater subscription style start */
+.donate-newslater{
+    margin: 100px;
+    
+}
+.newslater-content h1{
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+.newslater-content p{
+    text-align: center;
+    color: black;
+    font-size: 16px;
+    letter-spacing: 1px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.newslater-form{
+ text-align: center;
+ background-color: #fff4d6;
+ margin: 0 200px;
+ height: 200px;
+ margin-top: 50px;
+ 
+}
+input[type="email"] {
+    margin-top: 80px !important;
+    padding: 15px;
+    background: #d9d9d9;
+    color: #aa9f9f;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+}
+.newslater-form button{
+    
+    padding: 14px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    background: #ff5959;
+    border: none;
+    margin-top: 20px;
+    color: #ffff;
+    margin-left: -5px;
+    cursor: pointer;
+}
